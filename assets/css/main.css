@@ -1957,7 +1957,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #242943;
+			background: #1f274e;
 		}
 
 		select:focus::-ms-value {
@@ -3802,7 +3802,7 @@ input, select, textarea {
 		box-shadow: none;
 		height: 100%;
 		left: 0;
-		opacity: 2;
+		opacity: 0;
 		overflow: hidden;
 		padding: 3em 2em;
 		position: fixed;
@@ -3926,7 +3926,7 @@ input, select, textarea {
 			}
 
 	body.is-ie #menu {
-		background: rgba(42, 47, 74, 0.975);
+		background: rgba(45, 61, 151, 0.975);
 	}
 
 	body.is-menu-visible #wrapper {
@@ -3951,5 +3951,5 @@ input, select, textarea {
 			visibility: visible;
 		}
 		#two {
-			background-color: rgb(99, 121, 65);  /* aaron: 修改首頁下方區塊背景顏色 */
+			background-color: rgb(30, 65, 56);  /* aaron: 修改首頁下方區塊背景顏色 */
 		}
